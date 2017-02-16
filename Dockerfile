@@ -1,4 +1,4 @@
-FROM python:2.7.13
+FROM python:2.7
 MAINTAINER Captain Dao <support@daocloud.io>
 
 RUN mkdir -p /app
